@@ -25,3 +25,4 @@ alt="Video Demo" width="240" height="180" border="10" /></a>
 Use the Gitter chat button on this page to talk about this assignment.
 Tutors are also standing by at each campus location.
 Your professor is also available via email or phone.
+[![Gitter](https://badges.gitter.im/valencia-cop1000-201620/week4-tic-tac-toe.svg)](https://gitter.im/valencia-cop1000-201620/week4-tic-tac-toe?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
